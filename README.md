@@ -3,7 +3,7 @@ A tiny Python script to rename (Not convert!) file extensions.
 
 You can use this script file to change file extensions by renaming the files, not converting them. You need to know the current and the output extensions.
 
-# Must have Python 3.x installed!
+### Must have Python 3.x installed!
 
 How to use:
 ------------
